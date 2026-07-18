@@ -21,24 +21,10 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amlei&theme=graywhite&border=E2E8F0&background=F8FAFC" alt="streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=amlei&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=graywhite" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amlei&layout=compact&theme=graywhite" alt="top-langs" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amlei&theme=minimal&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=F8FAFC&color=6366F1&line=6366F1&point=4F46E5" width="95%" />
-</p>
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amlei&theme=flat&no-bg=true&no-frame=true&margin-w=8" alt="trophy" />
-</p>
-
-### 🎧 Spotify
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=317625znjy4ip4td6pkf3jmys34y&cover_image=true&theme=default" alt="spotify" />
 </p>
 
 ### 💬 Dev Quote
