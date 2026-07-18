@@ -13,8 +13,8 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,html,css&theme=light" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,docker,postgres,prisma,vercel,github&theme=light" />
+  <img src="https://skillicons.dev/icons?i=ts,js,py,go,react,nextjs,nodejs&theme=light" /><br/>
+  <img src="https://skillicons.dev/icons?i=docker,postgres,prisma,github,vercel,linux&theme=light" />
 </p>
 
 ### 📊 Stats
