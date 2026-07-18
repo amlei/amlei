@@ -27,19 +27,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amlei&theme=minimal&hide_border=true&area=true&custom_title=Contribution%20Graph&bg_color=F8FAFC&color=6366F1&line=6366F1&point=4F46E5" width="95%" />
 </p>
 
-### 💬 Dev Quote
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="quote" />
-</p>
-
-### 🔄 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-### 🌐 3D Contribution
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3d-contrib" width="70%" />
 </p>
